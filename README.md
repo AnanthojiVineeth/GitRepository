@@ -1,2 +1,2 @@
 # GitRepository
-1st commit done
+1st commit completed
